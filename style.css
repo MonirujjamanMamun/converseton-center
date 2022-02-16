@@ -1,0 +1,26 @@
+    /* css link import  */
+    
+    @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+    /* common css  */
+    
+    body {
+        font-family: 'Poppins', sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .mj-container-col {
+        background-color: #fff9f4;
+    }
+    
+    .mj-width {
+        max-height: 584px;
+    }
+    
+    .col-width {
+        width: 260px;
+    }
+    
+    .col-width-hot {
+        width: 310px;
+    }
